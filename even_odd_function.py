@@ -4,7 +4,7 @@ def check_even(number):
     else:
         print("Odd")
 check_even(4)
-check_even(4)
+check_even(5)
 
             
 
