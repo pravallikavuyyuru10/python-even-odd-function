@@ -1,9 +1,7 @@
-# Python Even Odd Function
-
-A beginner Python project demonstrating:
-- functions
-- parameters
-- if-else conditions
-- even and odd number checking
-
-The program checks whether a number is even or odd using a function.
+def check_even(number):
+    if number % 2 == 0:
+        print("Even")
+    else:
+        print("Odd")
+check_even(4)
+check_even(4)
